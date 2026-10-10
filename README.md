@@ -59,5 +59,6 @@ sudo make teardown
 ```
 
 ## Further eBPF resources:
+- [The eBPF Runtime in the Linux kernel](https://arxiv.org/pdf/2410.00026?)
 - [awesome-ebpf](https://github.com/qmonnet/awesome-ebpf)
 - [Linux kernel tree sample programs](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/samples/bpf)
